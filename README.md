@@ -12,7 +12,7 @@
 
 ## Working
 - ✅ Onboard audio
-- ✅ dGPU(H.264 / HEVC)
+- ✅ dGPU (H.264 / HEVC)
 - ✅ Wi-Fi (with Fenvi-T919)
 - ✅ AirDrop / Handoff
 - ✅ iCloud / iMessage / FaceTime
